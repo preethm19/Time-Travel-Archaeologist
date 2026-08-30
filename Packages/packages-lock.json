@@ -34,7 +34,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ai.navigation": {
-      "version": "2.0.13",
+      "version": "2.0.14",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -71,7 +71,7 @@
     },
     "com.unity.collections": {
       "version": "2.6.8",
-      "depth": 1,
+      "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.burst": "1.8.29",
@@ -151,7 +151,7 @@
     },
     "com.unity.nuget.newtonsoft-json": {
       "version": "3.2.2",
-      "depth": 1,
+      "depth": 0,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -245,7 +245,7 @@
     },
     "com.unity.test-framework.performance": {
       "version": "3.5.0",
-      "depth": 2,
+      "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.test-framework": "1.1.33",
