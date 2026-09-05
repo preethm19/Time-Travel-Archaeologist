@@ -5,9 +5,24 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/_Project/Scenes/Core/Bootstrap.unity
+    guid: 6ee3a5cfe4fdf40ea84002ebc4cc51e5
+  - enabled: 1
+    path: Assets/_Project/Scenes/Worlds/Sun Temple.unity
+    guid: d8f213b28287d8b4dab42cf4a34f94e5
+  - enabled: 1
+    path: Assets/_Project/Scenes/Characters.unity
+    guid: 571986758f9c7491b95800c0bbbc76b0
+  - enabled: 1
+    path: Assets/_Project/Scenes/Scene.unity
+    guid: 7aa445bbb23a54385905174eb3e2595e
+  - enabled: 1
+    path: Assets/_Project/Scenes/Worlds/TestWorld.unity
+    guid: a76b32b27c0d64ce6bdcff79ff703cf2
   m_configObjects:
     com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
