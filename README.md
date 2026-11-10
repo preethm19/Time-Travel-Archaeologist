@@ -42,10 +42,6 @@ This repository contains the Unity project files for a time-travel archaeology p
   <img src="./clips/sun_temple.png" alt="Sun temple" width="100%" />
 </p>
 
-## Video
-
-- Download or preview the project capture: [video_tape.mov](./clips/video_tape.mov)
-
 ## Getting Started
 
 1. Open the project in Unity.
