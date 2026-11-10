@@ -49,6 +49,30 @@ This repository contains the Unity project files for a time-travel archaeology p
 3. Load the main scene and enter Play mode.
 4. Explore the environment and interact with the NPC-driven narrative flow.
 
+## Recommended Workflow
+
+- Start with the main scene to understand the layout and pacing.
+- Test the NPC conversations before exploring the larger environment.
+- Move through the historical and temple-inspired spaces in sequence to follow the story flow.
+- Use the environment references in the gallery as a guide for visual tone and atmosphere.
+
+## Controls and Experience
+
+- Explore using standard first-person movement.
+- Interact with NPCs and objects as the scene prompts you.
+- Focus on the guided narrative rather than completion-based gameplay.
+- The experience is best enjoyed as an atmospheric prototype with environmental storytelling.
+
+## Requirements
+
+- Unity editor with the packages listed in the project manifest
+- Convai SDK setup and valid project configuration for the AI character features
+- A working microphone setup if voice-driven interaction is being used in the project
+
 ## Notes
 
 This is a prototype and may require the Convai SDK setup and any associated credentials or configuration before running fully in a fresh environment.
+
+## Project Intent
+
+The goal is to create a cinematic, immersive time-travel archaeology experience that blends narrative dialogue, exploration, and historical atmosphere. It is designed as a creative prototype for storytelling and environmental worldbuilding rather than a production-ready game build.
